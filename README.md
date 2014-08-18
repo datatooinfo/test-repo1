@@ -1,5 +1,5 @@
 The run_analysis.R script merges two input data sets . 
-nce merged, the mean and standard deviation are extracted for variables containing the string mean or std. 
+Once merged, the mean and standard deviation are extracted for variables containing the string mean or std. 
 
 Descriptive names are used for the internal files as well as in-script documentation to help explain the process. 
 Variables are labeled according to the features.txt file. 
